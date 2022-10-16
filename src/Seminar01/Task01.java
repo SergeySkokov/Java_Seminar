@@ -12,13 +12,12 @@ public class Task01 {
     static int InputTriangularDigit(){
         Scanner sc = new Scanner(System.in);
         System.out.println("Введите число: ");
-        int threeDigit = sc.nextInt();
-        return threeDigit;
+        return sc.nextInt();
     }
     static int GetTriangularDigit(int digit){
         return (digit*(digit + 1)) / 2;
     }
     static void PrintResult(int printInp, int printRes){
-        System.out.println("Результат треугольного числа: " + printInp + " равен " + printRes);
+        System.out.println("Результат треугольного числа: " + printInp + " равен: " + printRes);
     }
 }

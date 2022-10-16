@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="247df031-70c4-4bf3-b489-3d7db6608953" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Seminar01/Task01.java" afterDir="false" />
+    <list default="true" id="247df031-70c4-4bf3-b489-3d7db6608953" name="Changes" comment="&quot;Added Task01&quot;">
+      <change afterPath="$PROJECT_DIR$/src/Seminar01/Task02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Seminar01/Task01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminar01/Task01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,13 +38,22 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Learn/Stepik/Sokobano",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Quiz">
+    <configuration name="Quiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Quiz" />
+      <module name="Java_Seminar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Seminar01.Task01" />
       <module name="Java_Seminar" />
@@ -60,6 +69,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Quiz" />
         <item itemvalue="Application.Task01" />
       </list>
     </recent_temporary>
@@ -72,8 +82,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665852235007</updated>
-      <workItem from="1665852237251" duration="7057000" />
+      <workItem from="1665852237251" duration="9674000" />
+      <workItem from="1665870129061" duration="455000" />
+      <workItem from="1665943241536" duration="1253000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;Added Task01&quot;">
+      <created>1665864577662</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665864577662</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,5 +109,14 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Task01" />
+    <MESSAGE value="&quot;Added Task01&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Added Task01&quot;" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
