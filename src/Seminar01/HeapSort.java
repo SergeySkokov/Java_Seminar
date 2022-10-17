@@ -8,11 +8,11 @@ public class HeapSort {
         //Получаем массив
         int[] arrIn = getArray();
 
-        //Передаем массив для сортировки
-        int[] arrOut = heapSort(arrIn);
-
         //Выводим первоначальный массив в консоль
         printArray(arrIn);
+
+        //Передаем массив для сортировки
+        int[] arrOut = heapSort(arrIn);
 
         //Выводим отсортированный массив в консоль
         printArray(arrOut);
